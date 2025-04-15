@@ -75,3 +75,4 @@ part of the process that was used to create the persisted vector
 embeddings, so you will see this same model used in the Testing
 Retrieval section and in the full retrieval chain and chatbot.
 
+Credit: https://github.com/harvard-hbs
