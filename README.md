@@ -75,4 +75,6 @@ part of the process that was used to create the persisted vector
 embeddings, so you will see this same model used in the Testing
 Retrieval section and in the full retrieval chain and chatbot.
 
+Additionally, indexed documents searched and results are passed as context to LLM for domain specific context in LLM response.
+
 Credit: https://github.com/harvard-hbs
